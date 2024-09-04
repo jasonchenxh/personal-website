@@ -1,30 +1,25 @@
 ---
-title:          Dynamic Effects of Rough Elements in Fractures on Coal Permeability During Different Stages of Methane Extraction
-date:           2024-09-21 00:01:00 +0800
-selected:       true
-pub:            "Gas Science and Engineering"
-# pub_pre:        "Submitted to "
-# pub_post:       'Under review.'
-# pub_last:       ' <span class="badge badge-pill badge-custom badge-success">Spotlight</span>'
-pub_last:       ' <span class="badge badge-pill badge-custom badge-dark">Journal</span>'
-pub_date:       "2023"
-
+title:          Analysis of vibration characteristics of cryogenic insulated cylinders based on ANSYS
+date:           2024-09-26 00:01:00 +0800
+selected:       false
+pub:            "Journal of Physics: Conference Series"
+pub_last:       ' <span class="badge badge-pill badge-custom badge-secondary">Conference</span><span class="badge badge-pill badge-custom badge-warning">Poster</span>'
+pub_date:       "2024"
 abstract: >-
-  · Derived a new numerical model of rough-walled fractures that innovatively simplifies the fracture surface.
-  · Proposed a concept of effective fracture aperture that varies nonlinearly with the CH4 extraction process. 
-  · Constructed a CFD model of methane extraction using COMSOL Multiphysics, in which the governing equations for gas diffusion and seepage influenced by the new numerical model were imported.
-  · Analyzed the dynamic effect of roughness, stagger degree and shape of rough elements on CH4 migration. 
+  · Formulated a modal analysis model for the cryogenic insulated cylinder utilizing ANSYS.
+  · Delved into the natural frequency trends of the cylinder across varying filling percentages.
 
-  
-cover:          assets/images/covers/frac.jpg
+
+
+
+cover:          assets/images/covers/O2cylinder.png
 authors:
-  - Zhengdong Liu
+  - Gang Yang2
   - Xinhui Chen†
-  - Fuchao Tian†
-  - Wancheng Zhu
-  - Ze Hu
-  - Weiwei Su
-  - Zhiquan Wang
+  - Yuxiong Hu
+  - Si Huang
+  - Haiyan Xu
 links:
-  Paper: https://doi.org/10.1016/j.jgsce.2023.205118
+  #Paper: 
+  Poster: assets/images/poster/O2poster.png
 ---

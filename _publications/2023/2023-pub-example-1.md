@@ -10,9 +10,9 @@ pub_last:       ' <span class="badge badge-pill badge-custom badge-dark">Journal
 pub_date:       "2023"
 
 abstract: >-
-  · Derived a new numerical model of rough-walled fractures that innovatively simplifies the fracture surface.
-  · Proposed a concept of effective fracture aperture that varies nonlinearly with the CH4 extraction process. 
-  · Constructed a CFD model of methane extraction using COMSOL Multiphysics, in which the governing equations for gas diffusion and seepage influenced by the new numerical model were imported.
+  · Derived a new numerical model of rough-walled fractures that innovatively simplifies the fracture surface. <br>
+  · Proposed a concept of effective fracture aperture that varies nonlinearly with the CH4 extraction process. <br>
+  · Constructed a CFD model of methane extraction using COMSOL Multiphysics, in which the governing equations for gas diffusion and seepage influenced by the new numerical model were imported. <br>
   · Analyzed the dynamic effect of roughness, stagger degree and shape of rough elements on CH4 migration. 
 
   

@@ -1,19 +1,22 @@
 ---
-title:          Aux-ViT： Classification of Alzheimer's Disease from MRI based on Vision Transformer with Auxiliary Branch
-date:           2023-04-14 00:01:00 +0800
+title:          Design, Processing and Performance Testing of Extra-Large-Flow Centrifugal Model Pumps
+date:           2023-09-26 00:01:00 +0800
 selected:       false
-pub:            "2023 5th International Conference on Communications, Information System and Computer Engineering (CISCE)"
-pub_last:       ' <span class="badge badge-pill badge-custom badge-secondary">Conference</span><span class="badge badge-pill badge-custom badge-warning">Poster</span>'
+pub:            "Journal of Physics: Conference Series"
+pub_last:       ' <span class="badge badge-pill badge-custom badge-secondary">Conference</span><span class="badge badge-pill badge-custom badge-warning">Oral</span>'
 pub_date:       "2023"
 abstract: >-
-  We propose an Aux-ViT model for Alzheimer's diagnosis using MRI that adds an auxiliary branch to the Vision Transformer backbone to preserve shallow features and reduce overfitting, achieving improved accuracy over the baseline ViT model through multi-scale data preprocessing and augmentation techniques.
+  · Designed a model pump based on a prototype pump according to similarity principles.
+  · Constructed physical models of centrifugal pumps utilizing CFTurbo.
+  · Established the CFD model of centrifugal pumps using CFX.
 
-cover:          assets/images/covers/cover2.jpg
+
+cover:          assets/images/covers/pump.png
 authors:
-  - Yaofei Duan†
-  - Rongsheng Wang
-  - Yukun Li
+  - Xinhui Chen†
+  - Zirui Tang
+  - Shiyu Mo
 links:
-  Paper: https://ieeexplore.ieee.org/abstract/document/10142358/
+  Paper: https://doi.org/10.1088/1742-6596/2610/1/012022
   Cite: assets/bibtex/duan2023vit.bib
 ---

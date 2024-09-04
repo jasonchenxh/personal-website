@@ -19,5 +19,5 @@ authors:
   - Gang Yang
 links:
   Paper: https://doi.org/10.1088/1742-6596/2610/1/012025
-
+  Poster: assets/images/poster/H2poster.png
 ---

@@ -3,7 +3,7 @@ title:          Design, Processing and Performance Testing of Extra-Large-Flow C
 date:           2023-09-26 00:01:00 +0800
 selected:       false
 pub:            "Journal of Physics: Conference Series"
-pub_last:       ' <span class="badge badge-pill badge-custom badge-secondary">Conference</span><span class="badge badge-pill badge-custom badge-warning">Oral</span>'
+pub_last:       ' <span class="badge badge-pill badge-custom badge-secondary">Conference</span><span class="badge badge-pill badge-custom badge-success">Oral</span>'
 pub_date:       "2023"
 abstract: >-
   · Designed a model pump based on a prototype pump according to similarity principles.

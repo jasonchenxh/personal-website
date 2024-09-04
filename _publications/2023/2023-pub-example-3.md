@@ -1,24 +1,23 @@
 ---
-title:          LightR-YOLOv5： A Compact Rotating Detector for SARS-CoV-2 Antigen-Detection Rapid Diagnostic Test Results
-date:           2023-07-01 00:01:00 +0800
+title:          Numerical Analysis of the Temperature Rise at Fast Filling of Hydrogen Storage Cylinder Based on Fluid-Thermal-Solid Coupling
+date:           2023-09-26 00:01:00 +0800
 selected:       false
-pub:            "Displays"
-pub_last:       ' <span class="badge badge-pill badge-custom badge-dark">Journal</span>'
+pub:            "Journal of Physics: Conference Series"
+pub_last:       ' <span class="badge badge-pill badge-custom badge-secondary">Conference</span><span class="badge badge-pill badge-custom badge-warning">Poster</span>'
 pub_date:       "2023"
 abstract: >-
-  We propose LightR-YOLOv5, a compact detector for SARS-CoV-2 antigen rapid test results that uses a lightweight feature extractor and attention modules to localize results, outperforming other object detectors while being only 2.03MB in size for efficient deployment as a verification tool.
+· Established a fluid-thermal-solid coupled CFD model for fast inflating of carbon fiber full-wrapped hydrogen cylinders based on ANSYS.
+· Verified that the maximum stress point on the cylinder corresponds precisely to the vulnerability pinpointed by acoustic emission signal mapping.
 
-cover:          assets/images/covers/lightr-yolo.png
+
+
+cover:          assets/images/covers/H2cylinder.png
 authors:
-  - Rongsheng Wang
-  - Yaofei Duan
-  - Menghan Hu
-  - Xiaohong Liu
-  - Yukun Li
-  - Qinquan Gao
-  - Tong Tong
-  - Tao Tan†
+  - Huiyu Xie†
+  - Chenxi Ou
+  - Xinhui Chen
+  - Gang Yang
 links:
-  Paper: https://www.sciencedirect.com/science/article/pii/S0141938223000367
-  Cite: assets/bibtex/wang2023lightr.bib
+  Paper: https://doi.org/10.1088/1742-6596/2610/1/012025
+
 ---

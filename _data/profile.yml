@@ -3,7 +3,7 @@ secondary_name: ""
 navbar_name: "Xinhui Chen's Home Page"
 
 positions:
-  - '<span class="no-break"><img src="assets/images/badges/SCUT.png" alt="South China University of Technology" class="inline-badge"/></span> M.Eng., South China University of Technology (2025)'
+  - '<span class="no-break"><img src="assets/images/badges/SCUT.jpg" alt="South China University of Technology" class="inline-badge"/></span> M.Eng., South China University of Technology (2025)'
 
 email: "mexhchen@mail.scut.edu.cn"
 gscholar: IKY8jzUAAAAJ
@@ -14,7 +14,7 @@ gscholar: IKY8jzUAAAAJ
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
 #zhihu: wang-rong-sheng-74
-resume: assets/cv/Resume_RongshengWang.pdf
+resume: assets/cv/Resume_XinhuiChen.pdf
 # linkedin: your-Chenlinked-in-id
 # orcid: 0000-0000-0000-0000
 
@@ -22,7 +22,7 @@ short_bio: >-
   I am currently a postgraduate student majoring in Resources and Environmental Engineering (Safety Engineering) at <a href="https://www.scut.edu.cn/new/">South China University of Technology (SCUT)</a>. Before this I graduated as a Bachelor in Safety Engineering student at <a href="https://www.neu.edu.cn/">Northeastern University (NEU)</a> in the year 2022. <br> I am seeking a PhD opportunity for Fall 2025. My research interests include computational fluid dynamics (CFD), artificial intelligence (AI), Safety Science and Engineering, Simulation, Modelling and Numerical Methods. If you are interested in me, feel free to read my CV via the <a href="https://huggingface.co/wangrongsheng">🔗link</a>.
   
 show_portrait: true
-portrait_url: assets/images/photos/profile_wrs.jpg
+portrait_url: assets/images/photos/cxh.jpg
 portrait_caption: >-
   我是陈新辉，欢迎访问我的主页~
 

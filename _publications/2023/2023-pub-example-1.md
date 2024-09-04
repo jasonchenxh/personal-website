@@ -1,6 +1,6 @@
 ---
 title:          Dynamic Effects of Rough Elements in Fractures on Coal Permeability During Different Stages of Methane Extraction
-date:           2024-09-21 00:01:00 +0800
+date:           2023-09-21 00:01:00 +0800
 selected:       true
 pub:            "Gas Science and Engineering"
 # pub_pre:        "Submitted to "

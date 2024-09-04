@@ -1,31 +1,30 @@
 ---
-title:          3MT-Net：A Multi-modal Multi-task Model for Breast Cancer and Pathological Subtype Classification Based on a Multicenter Study
-date:           2024-08-01 00:01:00 +0800
+title:          Dynamic Effects of Rough Elements in Fractures on Coal Permeability During Different Stages of Methane Extraction
+date:           2024-09-21 00:01:00 +0800
 selected:       true
-pub:            "IEEE Journal of Biomedical and Health Informatics"
+pub:            "Gas Science and Engineering"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-custom badge-success">Spotlight</span>'
 pub_last:       ' <span class="badge badge-pill badge-custom badge-dark">Journal</span>'
-pub_date:       "2024"
+pub_date:       "2023"
 
 abstract: >-
-  This study introduces "Multi-modal Multi-task Network" (3MT-Net), a deep learning architecture using clinical data, B-mode, and color Doppler ultrasound. 3MT-Net employs AM-CapsNet for tumor feature extraction, cross-attention for data fusion, and ensemble learning for optimization. Extensive testing on two datasets showed 3MT-Net outperforms the industrial-grade CAD product S-detect, achieving higher AUC.
+  · Derived a new numerical model of rough-walled fractures that innovatively simplifies the fracture surface.
+  · Proposed a concept of effective fracture aperture that varies nonlinearly with the CH4 extraction process. 
+  · Constructed a CFD model of methane extraction using COMSOL Multiphysics, in which the governing equations for gas diffusion and seepage influenced by the new numerical model were imported.
+  · Analyzed the dynamic effect of roughness, stagger degree and shape of rough elements on CH4 migration. 
+
   
-cover:          assets/images/covers/3mt.png
+cover:          assets/images/covers/frac.jpg
 authors:
-  - Yaofei Duan
-  - Patrick Cheong-Iao Pang
-  - Ping He
-  - Rongsheng Wang
-  - Yue Sun
-  - Chuntao Liu
-  - Xiaorong Zhang
-  - Xirong Yuan
-  - Pengjie Song
-  - Chan-Tong Lam
-  - Ligang Cui
-  - Tao Tan†
+  - Zhengdong Liu
+  - Xinhui Chen†
+  - Fuchao Tian†
+  - Wancheng Zhu
+  - Ze Hu
+  - Weiwei Su
+  - Zhiquan Wang
 links:
-  Paper: https://ieeexplore.ieee.org/abstract/document/10640221
+  Paper: https://doi.org/10.1016/j.jgsce.2023.205118
 ---

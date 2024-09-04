@@ -6,7 +6,7 @@ pub:            "Journal of Physics: Conference Series"
 pub_last:       ' <span class="badge badge-pill badge-custom badge-secondary">Conference</span><span class="badge badge-pill badge-custom badge-warning">Poster</span>'
 pub_date:       "2023"
 abstract: >-
-  · Established a fluid-thermal-solid coupled CFD model for fast inflating of carbon fiber full-wrapped hydrogen cylinders based on ANSYS.
+  · Established a fluid-thermal-solid coupled CFD model for fast inflating of carbon fiber full-wrapped hydrogen cylinders based on ANSYS. <br>
   · Verified that the maximum stress point on the cylinder corresponds precisely to the vulnerability pinpointed by acoustic emission signal mapping.
 
 

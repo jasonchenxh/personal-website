@@ -20,6 +20,6 @@ authors:
   - Si Huang
   - Haiyan Xu
 links:
-  Accepted
+  Accepted：
   Poster: assets/images/poster/O2poster.png
 ---

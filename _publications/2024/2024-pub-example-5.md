@@ -3,7 +3,7 @@ title:          Prediction model of liquid holdup of multiphase pipelines based 
 date:           2024-12-21 00:01:00 +0800
 selected:       false
 pub:            "Chemical Engineering (China)"
-pub_post:       'Under review.'
+pub_post:       '(Accepted).'
 pub_last:       ' <span class="badge badge-pill badge-custom badge-dark">Journal</span>'
 pub_date:       "2024"
 

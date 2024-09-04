@@ -14,7 +14,7 @@ abstract: >-
 
 cover:          assets/images/covers/O2cylinder.png
 authors:
-  - Gang Yang2
+  - Gang Yang
   - Xinhui Chen†
   - Yuxiong Hu
   - Si Huang

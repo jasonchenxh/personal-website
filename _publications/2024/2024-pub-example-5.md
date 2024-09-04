@@ -17,9 +17,4 @@ authors:
   - Hao Fu
   - Ziqiang Pan
 
-#links:
-  #Paper: https://link.springer.com/chapter/10.1007/978-981-99-9119-8_34
-  #Code: https://github.com/WangRongsheng/IvyGPT
-  #Cite: assets/bibtex/wang2023ivygpt.bib
-  #Poster: assets/images/poster/CICAI2023-poster.jpg
 ---

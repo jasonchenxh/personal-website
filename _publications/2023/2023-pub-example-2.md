@@ -6,8 +6,8 @@ pub:            "Journal of Physics: Conference Series"
 pub_last:       ' <span class="badge badge-pill badge-custom badge-secondary">Conference</span><span class="badge badge-pill badge-custom badge-success">Oral</span>'
 pub_date:       "2023"
 abstract: >-
-  · Designed a model pump based on a prototype pump according to similarity principles.
-  · Constructed physical models of centrifugal pumps utilizing CFTurbo.
+  · Designed a model pump based on a prototype pump according to similarity principles. <br>
+  · Constructed physical models of centrifugal pumps utilizing CFTurbo. <br>
   · Established the CFD model of centrifugal pumps using CFX.
 
 

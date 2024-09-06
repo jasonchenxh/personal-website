@@ -16,7 +16,7 @@ abstract: >-
   · Analyzed the dynamic effect of roughness, stagger degree and shape of rough elements on CH4 migration. 
 
   
-cover:          assets/images/covers/frac.jpg
+cover:          assets/images/covers/frac2.png
 authors:
   - Zhengdong Liu
   - Xinhui Chen†

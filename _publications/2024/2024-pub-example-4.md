@@ -1,5 +1,5 @@
 ---
-title:          Analysis of vibration characteristics of cryogenic insulated cylinders based on ANSYS
+title:          Analysis of Vibration Characteristics of Cryogenic Insulated Cylinders Based on ANSYS
 date:           2024-09-26 00:01:00 +0800
 selected:       false
 pub:            "Journal of Physics: Conference Series"

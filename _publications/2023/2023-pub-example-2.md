@@ -18,5 +18,5 @@ authors:
   - Shiyu Mo
 links:
   Paper: https://doi.org/10.1088/1742-6596/2610/1/012022
-  Cite: assets/bibtex/duan2023vit.bib
+  Photo: assets/images/covers/oral.jpg
 ---

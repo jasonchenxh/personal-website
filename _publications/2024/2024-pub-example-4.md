@@ -3,7 +3,7 @@ title:          Analysis of Vibration Characteristics of Cryogenic Insulated Cyl
 date:           2024-09-26 00:01:00 +0800
 selected:       false
 pub:            "Journal of Physics: Conference Series"
-pub_post:       '(Accepted).'
+#pub_post:       '(Accepted).'
 pub_last:       ' <span class="badge badge-pill badge-custom badge-secondary">Conference</span><span class="badge badge-pill badge-custom badge-warning">Poster</span>'
 pub_date:       "2024"
 abstract: >-

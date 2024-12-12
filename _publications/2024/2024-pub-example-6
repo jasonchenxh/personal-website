@@ -4,7 +4,7 @@ date:           2024-12-12 00:01:00 +0800
 selected:       false
 pub:            "ACS Omega"
 pub_post:       '(Under Review).'
-pub_last:       ' <span class="badge badge-pill badge-custom badge-secondary">Conference</span><span class="badge badge-pill badge-custom badge-warning">Poster</span>'
+pub_last:       ' <span class="badge badge-pill badge-custom badge-dark">Journal</span>'
 pub_date:       ""
 abstract: >-
   · Simulated 750 sets of actual undulating pipeline operating conditions for gas-liquid two-phase flow using OLGA.<br>

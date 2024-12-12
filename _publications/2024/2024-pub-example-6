@@ -1,7 +1,7 @@
 ---
 title:          An Interpretable Predictive Model for Liquid Holdup of Hilly-Terrain Oil-Gas Pipelines Based on Machine Learning and Shapley Additive eXplanations.
 date:           2024-12-12 00:01:00 +0800
-selected:       false
+selected:       true
 pub:            "ACS Omega"
 pub_post:       '(Under Review).'
 pub_last:       ' <span class="badge badge-pill badge-custom badge-dark">Journal</span>'

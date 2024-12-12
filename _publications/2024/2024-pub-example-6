@@ -15,12 +15,8 @@ abstract: >-
 
 cover:          assets/images/covers/gasoilML.png
 authors:
-  - Gang Yang
-  - Xinhui Chen†
-  - Yuxiong Hu
-  - Si Huang
-  - Haiyan Xu
-links:
-  #Accepted
-  #Poster: assets/images/poster/O2poster.png
+  - Xinhui Chen
+  - Si Huang†
+  - Tianri Guan
+  - Hao Fu
 ---

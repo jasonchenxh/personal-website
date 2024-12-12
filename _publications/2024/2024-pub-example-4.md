@@ -21,6 +21,6 @@ authors:
   - Si Huang
   - Haiyan Xu
 links:
-  #Accepted
-  Poster: assets/images/poster/O2poster.png
+  Paper: https://doi.org/10.1088/1742-6596/2860/1/012016
+  Poster: assets/images/poster/ICFCE2024poster.png
 ---

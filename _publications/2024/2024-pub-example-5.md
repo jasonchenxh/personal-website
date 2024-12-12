@@ -1,6 +1,6 @@
 ---
 title:          Prediction Model of Liquid Holdup of Multiphase Pipelines Based on PSO-BP Algorithm
-date:           2024-12-21 00:01:00 +0800
+date:           2024-11-11 00:01:00 +0800
 selected:       false
 pub:            "Chemical Engineering (China)"
 pub_post:       '(Accepted).'

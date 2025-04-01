@@ -1,1 +1,23 @@
+---
+title:          An Interpretable Predictive Model for Liquid Holdup of Hilly-Terrain Oil-Gas Pipelines Based on Machine Learning and Shapley Additive Explanations.
+date:           2024-12-12 00:01:00 +0800
+selected:       true
+pub:            "ACS Omega"
+pub_post:       '(Accepted).'
+pub_last:       ' <span class="badge badge-pill badge-custom badge-dark">Journal</span>'
+pub_date:       ""
+abstract: >-
+  · Simulated 750 sets of actual undulating pipeline operating conditions for gas-liquid two-phase flow using OLGA.<br>
+  · Compared the predictive performance of six machine learning models for liquid holdup.<br>
+  · Visualized black box using SHAP to explain the variation pattern of liquid holdup.
+
+
+
+cover:          assets/images/covers/gasoilML.png
+authors:
+  - Xinhui Chen
+  - Si Huang†
+  - Tianri Guan
+  - Hao Fu
+---
 

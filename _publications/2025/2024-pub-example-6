@@ -3,9 +3,9 @@ title:          An Interpretable Predictive Model for Liquid Holdup of Hilly-Ter
 date:           2025-3-29 00:01:00 +0800
 selected:       true
 pub:            "ACS Omega"
-pub_post:       '(Accepted).'
+#pub_post:       '(Accepted).'
 pub_last:       ' <span class="badge badge-pill badge-custom badge-dark">Journal</span>'
-pub_date:       ""
+pub_date:       "2025"
 abstract: >-
   · Simulated 750 sets of actual undulating pipeline operating conditions for gas-liquid two-phase flow using OLGA.<br>
   · Compared the predictive performance of six machine learning models for liquid holdup.<br>
@@ -19,5 +19,7 @@ authors:
   - Si Huang†
   - Tianri Guan
   - Hao Fu
+links:
+  Paper: https://doi.org/10.1021/acsomega.4c10874
 ---
 
